@@ -1,3 +1,16 @@
+  
+---
+
+POV: "[[Helena]]"
+
+Status: Rascunho
+
+Anterior: 
+
+Proximo: "[[Capitulo 2 - Tomás]]"
+
+---
+
 Às 5h, exatamente, me levanto. Dou comida para o Aquino, meu Peixe Betta de estimação, e me desloco para minha primeira atividade diária, que é a prática de Natação, pois é o único momento no qual eu não preciso me preocupar com os meus arredores. É o meu momento de paz na terra, o que me mantém pronta pra um dia inteiro a ser enfrentado.
 
 Por volta das 7h15, volto pra casa, tomo um banho, e tomo um café expresso curto negro e sem açúcar. Preciso manter-me alerta durante o dia, comer agora só me atrapalharia.
