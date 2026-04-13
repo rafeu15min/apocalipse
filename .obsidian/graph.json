@@ -8,7 +8,21 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "",
+      "query": "path:\"1 - Lore\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16771584
+      }
+    },
+    {
+      "query": "path:Capítulos  ",
+      "color": {
+        "a": 1,
+        "rgb": 5417696
+      }
+    },
+    {
+      "query": "path:Personagens  ",
       "color": {
         "a": 1,
         "rgb": 14701138
@@ -17,14 +31,14 @@
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 3,
+  "nodeSizeMultiplier": 1.16389973958333,
+  "lineSizeMultiplier": 3.56764322916667,
   "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.3121475384849868,
+  "centerStrength": 0.487467447916667,
+  "repelStrength": 19.9495442708333,
+  "linkStrength": 0.954752604166667,
+  "linkDistance": 141,
+  "scale": 0.09248815955110715,
   "close": false
 }
