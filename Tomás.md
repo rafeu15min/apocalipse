@@ -27,7 +27,7 @@ Tomás é o contraponto caótico e humano à rigidez de Helena. De temperamento 
 
 ## 2. A Falha Moral (O Veredito da Iluminação)
 
-De acordo com a teologia católica e a *Física do Pecado* do Dia Zero, o maior demónio de Tomás não é a malícia, mas a **Acídia** (a preguiça espiritual e a tristeza paralisante diante do bem divino, descrita por São Tomás de Aquino).
+De acordo com a teologia católica e a *Física do Pecado* do Dia Zero, o maior demônio de Tomás não é a malícia, mas a **Acídia** (a preguiça espiritual e a tristeza paralisante diante do bem divino, descrita por São Tomás de Aquino).
 
 * **A Visão do Julgamento:** Na Iluminação das Consciências, a alma de Tomás não será vista como o bunker fortificado de Helena, mas possivelmente como um **Pântano Lamacento ou uma Biblioteca em Ruínas**. Um lugar onde a luz tenta entrar, mas é asfixiada pela poeira da autopiedade, do vitimismo e da falha em agir quando a Graça exigia coragem.
 
@@ -51,7 +51,7 @@ No apocalipse onde a Liturgia e o Som são armas, o arquivista "inútil" torna-s
 
 * **[[Helena]]:** A Muralha. Ele é atraído pela ordem e estabilidade inabalável dela, coisas que ele não possui dentro de si. Ele precisa da frieza dela para não ser engolido pelo próprio pânico, e oferece-lhe a humanidade que ela reprime.
 
-* **[[O Maestro]]:** (O evento traumático). O homem que Tomás precisou empurrar do mezanino no Capítulo 1 para salvar Helena. Este ato de violência, mesmo em legítima defesa, será o seu primeiro teste de fogo contra a Ira e a culpa.
+* **O Maestro:** (O evento traumático). O homem que Tomás precisou empurrar do mezanino no Capítulo 1 para salvar Helena. Este ato de violência, mesmo em legítima defesa, será o seu primeiro teste de fogo contra a Ira e a culpa.
 
   
 
