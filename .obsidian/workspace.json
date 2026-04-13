@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.3 - Os Penitentes - O Caminho de Reentrada.md",
+                "file": "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios/1.3.2.1.7 - Acídia (O Pântano da Vontade).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.4.3 - Os Penitentes - O Caminho de Reentrada"
+              "title": "1.3.2.1.7 - Acídia (O Pântano da Vontade)"
             }
           }
         ],
@@ -107,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 862.5
   },
   "right": {
     "id": "408c0b3e220cee56",
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.3 - Os Penitentes - O Caminho de Reentrada.md",
+                "file": "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios/1.3.2.1.7 - Acídia (O Pântano da Vontade).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de 1.4.3 - Os Penitentes - O Caminho de Reentrada"
+              "title": "Sumário de 1.3.2.1.7 - Acídia (O Pântano da Vontade)"
             }
           },
           {
@@ -221,10 +221,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb65a54f6454da9a",
+  "active": "c114d3751c1da15b",
   "lastOpenFiles": [
-    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.2 - Os Seculares - Almas no Pátio Externo.md",
+    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios/1.3.2.1.6 - Inveja (O Mímico do Vazio).md",
+    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios/1.3.2.1.7 - Acídia (O Pântano da Vontade).md",
+    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios/1.3.2.1.5 - Gula (O Vórtice de Consumo).md",
+    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios/1.3.2.1.4 - Ira (O Motor de Carne).md",
+    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios/1.3.2.1.3 - Luxúria (O Amálgama Sensorial).md",
+    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios/1.3.2.1.2 - Avareza (O Cofre de Ossos).md",
+    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios/1.3.2.1.1 - Soberba (O Espelho de Vidro).md",
+    "1 - Lore/1.5 - Espacialidade e Ambiente/1.5.3 - Geometria da Culpa - Deformação Sensorial do Espaço.md",
+    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.1 - Individuais - Os Sete Vícios",
+    "1 - Lore/1.5 - Espacialidade e Ambiente/1.5.2 - Zonas de Condensação - A Endotermia do Abismo.md",
+    "1 - Lore/1.5 - Espacialidade e Ambiente/1.5.1 - Catedrais de Carne - Densidade de Pecado e Distorção de Gravidade.md",
     "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.3 - Os Penitentes - O Caminho de Reentrada.md",
+    "1 - Lore/1.5 - Espacialidade e Ambiente",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.2 - Os Seculares - Almas no Pátio Externo.md",
     "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.1 - Os Seletos - Vocações de Terceira Morada.md",
     "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados/1.3.2.3 - Catedrais de Carne - O Colapso dos 7 Pecados.md",
     "1 - Lore/1.4 - Hierarquia das Almas e Sociedade",
@@ -247,20 +259,8 @@
     "1 - Lore/1.1 - Cronologia Escatológica/1.1.3 - A Era do Cavalo Vermelho - A Malícia e a Retirada da Paz.md",
     "1 - Lore/1.1 - Cronologia Escatológica/1.1.2 - A Era do Cavalo Branco - O Veredito do Cristal.md",
     "Lore/Sem título.md",
-    "1 - Lore/1.1 - Cronologia Escatológica/1.1.1 - Dia Zero - A Luz Perfurante.md",
-    "1 - Lore/1.1 - Cronologia Escatológica",
-    "1 - Lore",
-    "Capítulos/Capitulo 2 - Tomás.md",
     "Sem título.canvas",
-    "2026-04-13.md",
-    "Capítulos/Capitulo 1 - Helena.md",
-    "O Maestro.md",
-    "Personagens/Tomás.md",
-    "Personagens/Helena.md",
     "Sem título 1.canvas",
-    "Sem título 2.canvas",
-    "2026-04-11.md",
-    "crie um link.md",
-    "Bem-vindo.md"
+    "Sem título 2.canvas"
   ]
 }
