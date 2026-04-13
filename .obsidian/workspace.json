@@ -27,26 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capítulos/Capitulo 2 - Tomás.md",
+                "file": "1 - Lore/1.6 - Arsenal, Táticas e Ética de Abate/1.6.3 - Matéria-Prima Litúrgica - O Novo Ouro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capitulo 2 - Tomás"
-            }
-          },
-          {
-            "id": "40224896e5d556a1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "1.6.3 - Matéria-Prima Litúrgica - O Novo Ouro"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +207,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40224896e5d556a1",
+  "active": "912714e3d640537d",
   "lastOpenFiles": [
+    "1 - Lore/1.6 - Arsenal, Táticas e Ética de Abate/1.6.2 - Exegese do Abate - O Princípio do Duplo Efeito.md",
+    "1 - Lore/1.6 - Arsenal, Táticas e Ética de Abate/1.6.3 - Matéria-Prima Litúrgica - O Novo Ouro.md",
+    "1 - Lore/1.6 - Arsenal, Táticas e Ética de Abate/1.6.1 - O Pavio que Fumega e a Janela de Ouro.md",
+    "1 - Lore/1.5 - Espacialidade e Percepção (A Ilusão Diabólica)/1.5.3 - Geometria da Culpa - O Ataque à Imaginação.md",
+    "1 - Lore/1.6 - Arsenal, Táticas e Ética de Abate",
+    "1 - Lore/1.5 - Espacialidade e Percepção (A Ilusão Diabólica)/1.5.2 - Zonas de Condensação - A Manipulação Termodinâmica.md",
+    "1 - Lore/1.5 - Espacialidade e Percepção (A Ilusão Diabólica)/1.5.1 - Catedrais de Carne - Densidade de Pecado e Distorção Vestibular.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.4 - Fenomenologia Social do Dia Zero/1.4.4.2 - O Fenômeno das Almas em Transição.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.4 - Fenomenologia Social do Dia Zero/1.4.4.1 - O Colapso das Hierarquias Civis e a Nova Ordem Ontológica.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.3 - Os Penitentes (A Via da Purgação e Reentrada)/1.4.3.3 - O Serviço de Expiação - A Função Social do Arrependido.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.4 - Fenomenologia Social do Dia Zero",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.3 - Os Penitentes (A Via da Purgação e Reentrada)/1.4.3.2 - Marcas de Contrição - A Mudança de Assinatura Térmica.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.3 - Os Penitentes (A Via da Purgação e Reentrada)/1.4.3.1 - O Exomologesis - Dinâmica da Confissão Pública.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.2 - Os Seculares (O Pátio Externo e a Resistência)/1.4.2.3 - A Ignorância Invencível e o Limiar da Queda.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.3 - Os Penitentes (A Via da Purgação e Reentrada)",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.2 - Os Seculares (O Pátio Externo e a Resistência)/1.4.2.2 - A Sociologia do Caos - Gangues e Estruturas de Poder.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.2 - Os Seculares (O Pátio Externo e a Resistência)/1.4.2.1 - Almas Paralíticas - A Falta de Oração e o Pano Negro.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.1 - Os Seletos (Vocações e Marcas da Graça)/1.4.1.3 - O Peso da Eleição - Responsabilidade e Perseguição.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.2 - Os Seculares (O Pátio Externo e a Resistência)",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.1 - Os Seletos (Vocações e Marcas da Graça)/1.4.1.2 - Tipologia de Carismas - Vigilantes, Intercessores e Arautos.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.1 - Os Seletos (Vocações e Marcas da Graça)/1.4.1.1 - A Estabilidade da Terceira Morada - Ordem e Rigor.md",
+    "Capítulos/Capitulo 2 - Tomás.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.1 - Os Seletos - Vocações de Terceira Morada.md",
+    "1 - Lore/1.4 - Hierarquia das Almas e Sociedade/1.4.1 - Os Seletos (Vocações e Marcas da Graça)",
     "Capítulos/Capitulo 1 - Helena.md",
     "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)/1.3.3.10 - 10º Mandamento - Inveja de Posse e a Corrupção do Olhar.md",
     "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)/1.3.3.9 - 9º Mandamento - Cobiça de Afeto e a Desordem do Desejo.md",
@@ -226,35 +240,11 @@
     "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)/1.3.3.7 - 7º Mandamento - Injustiça e a Subtração do Próximo.md",
     "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)/1.3.3.6 - 6º Mandamento - Desordem da Carne e Adultério.md",
     "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)/1.3.3.5 - 5º Mandamento - Violência e a Violação da Vida.md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)/1.3.3.4 - 4º Mandamento - Quebra de Hierarquia e Ingratidão.md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)/1.3.3.3 - 3º Mandamento - Negligência e o Abandono do Sagrado.md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)/1.3.3.2 - 2º Mandamento - Blasfêmia e o Verbo Corrompido.md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)/1.3.3.1 - 1º Mandamento - Idolatria e a Substituição do Rei.md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.4 - Entidades Complexas/1.3.4.2 - Catedrais de Carne - O Colapso dos 7 Pecados e 10 Mandamentos.md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.4 - Entidades Complexas/1.3.4.1 - Multipecado - A Dissonância de 2 a 6 Vícios.md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados (Individuais)/1.3.2.1.1 - Soberba (O Espelho de Vidro).md",
     "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.4 - Entidades Complexas",
     "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.3 - O Decálogo Violado (A Lei)",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/Sem título.md",
-    "Personagens/Tomás.md",
-    "1 - Lore/1.2 - A Física do Castelo Interior (Metafísica)/1.2.5 - A Lei e a Raiz - O Decálogo como Gatilho de Queda.md",
-    "1 - Lore/1.2 - A Física do Castelo Interior (Metafísica)/1.2.4 - A Pequena Via - Dissimulação da Humildade.md",
-    "1 - Lore/1.2 - A Física do Castelo Interior (Metafísica)/1.2.3 - Refração e Farol Espiritual.md",
-    "1 - Lore/1.2 - A Física do Castelo Interior (Metafísica)/1.2.2 - A Opacidade do Pecado - O Pano Negro.md",
-    "1 - Lore/1.1 - Cronologia Escatológica/1.1.5 - A Era do Cavalo Amarelo - O Juízo Terminal.md",
-    "Capítulos/Capitulo 2 - Tomás.md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados (Individuais)/1.3.2.1.7 - Acídia (O Pântano da Vontade).md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados (Individuais)/1.3.2.1.6 - Inveja (O Mímico do Vazio).md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados (Individuais)/1.3.2.1.5 - Gula (O Vórtice de Consumo).md",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados (Individuais)/1.3.2.1.4 - Ira (O Motor de Carne).md",
     "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados (Individuais)/1.3.2.1 - Individuais - Os Sete Vícios",
-    "1 - Lore/1.5 - Espacialidade e Ambiente",
+    "1 - Lore/1.5 - Espacialidade e Percepção (A Ilusão Diabólica)",
     "1 - Lore/1.4 - Hierarquia das Almas e Sociedade",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.2 - Tipologia dos Condenados (Individuais)",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.1 - Fenomenologia da Queda/Sem título",
-    "Personagens",
-    "Capítulos",
-    "1 - Lore/1.3 - Bestiário - Os Purgatórios de Carne/1.3.1 - Fenomenologia da Queda",
     "Sem título.canvas",
     "Sem título 1.canvas",
     "Sem título 2.canvas"
