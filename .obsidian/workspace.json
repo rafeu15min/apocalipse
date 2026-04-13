@@ -53,14 +53,18 @@
             "id": "4b129be8202bdc35",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "O Maestro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "O Maestro"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,11 +235,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b129be8202bdc35",
+  "active": "c5872db898c6b857",
   "lastOpenFiles": [
     "Capitulo 1 - Helena.md",
-    "Capitulo 2 - Tomás.md",
     "Tomás.md",
+    "Capitulo 2 - Tomás.md",
+    "O Maestro.md",
     "Helena.md",
     "Sem título 1.canvas",
     "Sem título.canvas",
