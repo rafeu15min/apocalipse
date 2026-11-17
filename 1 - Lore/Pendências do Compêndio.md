@@ -21,11 +21,9 @@ Notas de Lore: **188**, vazias: **68** (gerado em 2026-11-16, 2ª rodada).
 * Padre Vicente, Camila, Arthur, Aquino; locais exatos (bairro, arquidiocese).
 
 ## Para decidir/validar
+*Validados pelo autor em 2026-11-17:* banimento como abuso (1.9.6), carisma que não é retirado (1.8.3.0, segredo na Escaleta) e o Mercador do Óleo (1.3.4.7).
 * [[1.3.5.4 - Matriz de Mesclagem e Níveis de Corrupção]] e as 5 notas filhas: régua M = V + D + 2S, níveis e as 21 combinações da tabela são **propostas-IA** (aprovadas em ideia pelo autor; falta revisar nomes e efeitos).
-* [[1.3.4.7 - A Unção dos Enfermos - O Óleo Mercadejado]] (monstro é proposta).
 * [[1.9.1 - São Paulo - O Epicentro]]: horário da missa, bairro.
-* [[1.9.6 - Justiça e Governo nos Refúgios]]: o "banimento" foi reinterpretado como abuso.
-* [[1.8.3.0 - A Teologia do Carisma - Dom vs Santidade Pessoal]]: regra "carisma cessa" mantida como observação da Resistência.
 * **1.3.3.4 CORRIGIDA (obediência disciplinada, com limite: At 5,29; CIC 2242, 2313; ST II-II q.104 a.5). Falta só a 1.8.5.2 (Comando), vazia: ao escrevê-la, manter o mesmo limite.** (O texto antigo pedia "obediência cega" e "aniquilação da vontade própria". Isso contradiz CIC 2242 e 2313 (nenhuma ordem contra a lei natural obriga).)
 
 ## Revisão doutrinária (2026-11-16/17)
