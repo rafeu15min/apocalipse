@@ -32,3 +32,4 @@ Status: rascunho-ia
 | **Geometria da Culpa** | Ataque à imaginação com o peso do pecado não arrependido. | [[1.5.3 - Geometria da Culpa - O Ataque à Imaginação]] |
 | **Zonas de Condensação** | Regiões onde o pecado altera a termodinâmica. | [[1.5.2 - Zonas de Condensação - A Manipulação Termodinâmica]] |
 | **Compêndio** | Documento in-universe, falível nas regras empíricas. | [[0 - Como Ler este Compêndio]] |
+| **Massa Ontológica** | Estimativa de campo da ameaça de uma abominação: vícios + mandamentos + 2 por sacramento profanado; define o Nível (Santuário, Basílica, Domo). Proposta-IA. | [[1.3.5.4.1 - Cálculo de Massa Ontológica - A Soma da Queda]] |

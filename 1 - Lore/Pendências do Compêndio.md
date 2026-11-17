@@ -21,6 +21,7 @@ Notas de Lore: **188**, vazias: **68** (gerado em 2026-11-16, 2ª rodada).
 * Padre Vicente, Camila, Arthur, Aquino; locais exatos (bairro, arquidiocese).
 
 ## Para decidir/validar
+* [[1.3.5.4 - Matriz de Mesclagem e Níveis de Corrupção]] e as 5 notas filhas: régua M = V + D + 2S, níveis e as 21 combinações da tabela são **propostas-IA** (aprovadas em ideia pelo autor; falta revisar nomes e efeitos).
 * [[1.3.4.7 - A Unção dos Enfermos - O Óleo Mercadejado]] (monstro é proposta).
 * [[1.9.1 - São Paulo - O Epicentro]]: horário da missa, bairro.
 * [[1.9.6 - Justiça e Governo nos Refúgios]]: o "banimento" foi reinterpretado como abuso.
@@ -28,5 +29,5 @@ Notas de Lore: **188**, vazias: **68** (gerado em 2026-11-16, 2ª rodada).
 * **1.3.3.4 CORRIGIDA (obediência disciplinada, com limite: At 5,29; CIC 2242, 2313; ST II-II q.104 a.5). Falta só a 1.8.5.2 (Comando), vazia: ao escrevê-la, manter o mesmo limite.** (O texto antigo pedia "obediência cega" e "aniquilação da vontade própria". Isso contradiz CIC 2242 e 2313 (nenhuma ordem contra a lei natural obriga).)
 
 ## Revisão doutrinária (2026-11-16/17)
-Feita por mim contra CIC (texto do Vaticano), Cânones, Suma de Santo Tomás e Escritura. Revisadas por inteiro: 1.3.3.1-10, 1.3.4.1-6, 1.3.2.1.1-3, 1.2.1, 1.2.4, 1.2.5, 1.1.1, 1.1.3, 1.1.5; revisadas por varredura de termos de risco: 1.2.2, 1.2.3, 1.3.1.1, 1.3.2.1.4-7, 1.3.5.x, 1.1.2, 1.1.4. **Segunda rodada (2026-11-17):** lidas por inteiro 1.3.2.1.4-7, 1.3.5.2, 1.2.2, 1.2.3, 1.1.2, 1.1.4 e o índice 1.8.1. Resta só a leitura integral da 1.3.5.1 (a metade final) e da 1.3.5.4 (índice).
+Feita por mim contra CIC (texto do Vaticano), Cânones, Suma de Santo Tomás e Escritura. Revisadas por inteiro: 1.3.3.1-10, 1.3.4.1-6, 1.3.2.1.1-3, 1.2.1, 1.2.4, 1.2.5, 1.1.1, 1.1.3, 1.1.5; revisadas por varredura de termos de risco: 1.2.2, 1.2.3, 1.3.1.1, 1.3.2.1.4-7, 1.3.5.x, 1.1.2, 1.1.4. **Segunda rodada (2026-11-17):** lidas por inteiro 1.3.2.1.4-7, 1.3.5.2, 1.2.2, 1.2.3, 1.1.2, 1.1.4 e o índice 1.8.1. A 1.3.5.1 e a 1.3.5.4 também foram lidas. Revisão doutrinária do Compêndio concluída.
 Corrigido: blasfêmia x homicídio (ST II-II q.13 a.3), exorcismo só de sacerdote (CIC 1673; Cân. 1172), suicídio (CIC 2282-2283), restituição (CIC 2412), cânones sobre clérigos e armas (289 §1, 1041 4º, 1044 §1 3º), mártir (CIC 2473), oração do pecador (Lc 18,13; CIC 2631), certeza de graça (CIC 2005), dignidade inalienável (CIC 1700), Purgatório da doutrina x "Purgatório de Carne" (CIC 1030-1032), relíquias e objetos sagrados como carga (CIC 2120; Cân. 1190), visibilidade das sentenças (CIC 1021-1022), citações sem fonte (Crisóstomo, Irmã Lúcia).
