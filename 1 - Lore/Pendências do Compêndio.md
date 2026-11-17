@@ -25,4 +25,4 @@ Notas de Lore: **188**, vazias: **68** (gerado em 2026-11-16, 2ª rodada).
 * [[1.9.1 - São Paulo - O Epicentro]]: horário da missa, bairro.
 * [[1.9.6 - Justiça e Governo nos Refúgios]]: o "banimento" foi reinterpretado como abuso.
 * [[1.8.3.0 - A Teologia do Carisma - Dom vs Santidade Pessoal]]: regra "carisma cessa" mantida como observação da Resistência.
-* **1.3.3.4 (4º Mandamento) e 1.8.5.2 (Comando):** o texto antigo pede "obediência cega" e "aniquilação da vontade própria". Isso contradiz CIC 2242 e 2313 (nenhuma ordem contra a lei natural obriga). Corrigir ao escrever a 1.8.5.2.
+* **1.3.3.4 CORRIGIDA (obediência disciplinada, com limite: At 5,29; CIC 2242, 2313; ST II-II q.104 a.5). Falta só a 1.8.5.2 (Comando), vazia: ao escrevê-la, manter o mesmo limite.** (O texto antigo pedia "obediência cega" e "aniquilação da vontade própria". Isso contradiz CIC 2242 e 2313 (nenhuma ordem contra a lei natural obriga). Corrigir ao escrever a 1.8.5.2.
