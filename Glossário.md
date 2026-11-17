@@ -32,4 +32,3 @@ Status: rascunho-ia
 | **Geometria da Culpa** | Ataque à imaginação com o peso do pecado não arrependido. | [[1.5.3 - Geometria da Culpa - O Ataque à Imaginação]] |
 | **Zonas de Condensação** | Regiões onde o pecado altera a termodinâmica. | [[1.5.2 - Zonas de Condensação - A Manipulação Termodinâmica]] |
 | **Compêndio** | Documento in-universe, falível nas regras empíricas. | [[0 - Como Ler este Compêndio]] |
-| **Consumptio** | Consumir as espécies consagradas para evitar a profanação iminente; último recurso. | [[1.7.4 - O Altar e o Desespero da Consumptio]] |

@@ -45,5 +45,5 @@ Ver [[1.9.3 - Calendário e Duração das Eras]]: Parte 1 (dias 1-14), Parte 2 (
 * **Cristo está igual em todo sacrário**, e os santuários **não são "mais santos"**. A diferença é a densidade de pessoas em oração e de sacramentos, ou seja, um **Farol coletivo**. A fama é risco: quanto mais conhecido, mais alvo e mais sobrecarga.
 * **Cada pecado procura o que mais ama:** a Avareza, as relíquias e os donativos; a Gula, os depósitos de comida; a Inveja, os virtuosos; a Luxúria, os castos; a Ira, o ruído e a discórdia; a Soberba, a fama e a vaidade da comunidade; a Acídia fica parada; o Anti-Pastor, o clero; o Ídolo Parasita, a devoção tratada como amuleto.
 * **Os personagens descobrem isto sozinhos, bem à frente.** Antes disso, a Resistência só tem crença e boato.
-* **Ponto fraco da força:** [[1.7.4 - O Altar e o Desespero da Consumptio]].
+* **Ponto fraco da força:** [[1.7.4 - O Altar sob Ataque]].
 * **Em aberto:** o que compõe o "livro 1" (as quatro partes ou só parte delas) e quando o livro 2 revela os santuários.
