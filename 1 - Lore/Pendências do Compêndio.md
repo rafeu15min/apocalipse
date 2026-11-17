@@ -14,7 +14,7 @@ Notas de Lore: **188**, vazias: **68** (gerado em 2026-11-16, 2ª rodada).
 * **1.8 - A Forja de Almas (Os 5 Pilares)**: 47 vazias
 
 ## Sem canon (decisão do autor)
-* 1.7.1 Rebote Bélico e Ninhos Negros; 1.7.2 Hereges e Ignorância Invencível. (1.7.4 Consumptio: escrita; verificar a norma sobre profanação iminente.)
+* 1.7.1 Rebote Bélico e Ninhos Negros; 1.7.2 Hereges e Ignorância Invencível. (1.7.4 Consumptio: escrita e verificada; sem cânon expresso, validar com canonista.)
 * Papa e Cúria; bispo sem mandato (Cân. 1013).
 * Anticristo/Besta/Falso Profeta; Prostituta de Babilónia; 144 mil; duas testemunhas; Mulher e Dragão (Ap 12); Parusia/Nova Jerusalém.
 * Anjos e demónios em detalhe; Purgatório, Inferno e Limbo; ressurreição e Juízo Final.
