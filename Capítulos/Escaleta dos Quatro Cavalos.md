@@ -47,3 +47,8 @@ Ver [[1.9.3 - Calendário e Duração das Eras]]: Parte 1 (dias 1-14), Parte 2 (
 * **Os personagens descobrem isto sozinhos, bem à frente.** Antes disso, a Resistência só tem crença e boato.
 * **Ponto fraco da força:** [[1.7.4 - O Altar sob Ataque]].
 * **Em aberto:** o que compõe o "livro 1" (as quatro partes ou só parte delas) e quando o livro 2 revela os santuários.
+
+### A verdade sobre os carismas (descoberta tardia; **não entregar de bandeja**)
+* **O carisma nunca é retirado.** Sem caridade (1 Cor 13,1-3), o portador não perde o dom: perde a capacidade de **percebê-lo** e de dirigi-lo, como quem tem a luz acesa e fecha os olhos. Quem exibe o dom por vaidade deixa de enxergá-lo.
+* Os personagens e a Resistência só sabem que "o dom falha em quem se exalta". A explicação (o dom permanece, o que se perde é a visão) fica para a descoberta tardia.
+* Base: Rm 11,29 (os dons de Deus são irrevogáveis); Jo 11,51 (Caifás profetiza sem saber); Nm 24 (Balaão).
