@@ -14,3 +14,5 @@
 * [[1.6 - Arsenal, Táticas e Ética de Abate]]
 * [[1.7 - O Colapso Secular e a Igreja Descentralizada]]
 * [[1.8 - A Forja de Almas (Os 5 Pilares)]]
+* [[1.9 - O Mundo Pós-Ruptura (Geografia, Logística e Cotidiano)]]
+* [[0 - Como Ler este Compêndio]]

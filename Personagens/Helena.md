@@ -5,6 +5,7 @@ Ocupação: Arquiteta Júnior (Compatibilização)
 Local_Trabalho: Métrica Engenharia & Projetos
 Pecado_Raiz: Soberba (Isolamento/Controle)
 Status: Protagonista
+Confiabilidade: Racionalização e autoimagem (Soberba)
 ---
 ## 1. Perfil Psicológico e Comportamental
 Helena opera sob a ilusão do controle absoluto. A sua mente é altamente analítica, metódica e orientada a processos. Ela desenhou a própria vida para minimizar variáveis e atritos emocionais. 
@@ -28,3 +29,9 @@ No mundo pós-Ruptura, as habilidades seculares de Helena ganham um peso de vida
 
 ## 5. Citações e Notas de Roteiro
 > *"Limpo as mãos da gordura da comida, deixo a televisão no mudo, e o atendo... A voz dele soa doce como mel... Lembro até agora como cada palavra dele fazia meu coração errar cada batida. Apesar de não gostar de assumir nada disso."* (Capítulo 1)
+
+## 6. Confiabilidade Narrativa (rascunho-ia)
+* **Eixo:** racionalização. Transforma a frieza em eficiência e o afeto em lógica. Narra depois do fato.
+* **Tells no Capítulo 1:** "Odeio admitir", a aceleração do coração justificada pelo perigo, e o escorregão sábado/domingo.
+* **O que o leitor consegue verificar:** o frio e a geometria rígida ao seu redor, os atos de Tomás, e o destino de Aquino e dos terrários ([[1.3.6 - Fauna e Flora - Os Gemidos da Criação]]).
+* Ver [[0 - Guia dos Narradores Não Confiáveis]].

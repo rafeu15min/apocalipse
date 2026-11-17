@@ -11,6 +11,7 @@ Local_Trabalho: "Basílica de São Judas"
 Pecado_Raiz: Acídia / Autopiedade (Sentimento de Inutilidade)
 
 Status: Protagonista
+Confiabilidade: Autopiedade (Acídia)
 
 ---
 ## 1. Perfil Psicológico e Comportamental
@@ -58,3 +59,8 @@ No apocalipse onde a Liturgia e o Som são armas, o arquivista "inútil" torna-s
 ## 5. Citações e Notas de Roteiro
 
 > *"A ação bruta pertence a ele. Enquanto a mente dela foca no som do osso quebrando, a mente dele foca na sobrevivência crua: puxá-la pelo braço, as pernas a falhar, o desespero de descer as escadas em direção ao Arquivo."* (Nota de debate sobre a transição do POV do Capítulo 1 para o Capítulo 2).
+
+## 6. Confiabilidade Narrativa (rascunho-ia)
+* **Eixo:** autopiedade. Subestima o próprio valor, agiganta a culpa e apaga o próprio heroísmo. A sobrecarga sensorial turva o que ele vê em combate.
+* **O que o leitor consegue verificar:** os atos concretos (empurrou o Maestro, guiou Helena) e o efeito que ele tem sobre os outros.
+* Ver [[0 - Guia dos Narradores Não Confiáveis]].
