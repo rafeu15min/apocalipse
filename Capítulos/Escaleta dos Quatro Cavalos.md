@@ -37,3 +37,7 @@ Os quatro cavalos funcionam como **eras fenomenológicas e estados espirituais**
 
 ## Calendário
 Ver [[1.9.3 - Calendário e Duração das Eras]]: Parte 1 (dias 1-14), Parte 2 (semanas 3-16), Parte 3 (meses 5-14), Parte 4 (mês 15 em diante).
+
+## Segredos do Autor (fora do mundo; não vai para o Compêndio)
+* **Os santuários (Aparecida, Schoenstatt de Atibaia):** no livro 1 ninguém (ou quase ninguém) chega, e as menções vão se tornando comuns. **O segredo é que valeria a pena**: são Faróis reais, de Graça acessível. A salvação continua dependendo da resposta de cada um, e não do lugar ([[1.9.10 - Santuários de Destino - Aparecida e Schoenstatt]]).
+* **Em aberto:** o que compõe o "livro 1" (as quatro partes ou só parte delas) e quando o livro 2 revela os santuários.
