@@ -39,5 +39,11 @@ Os quatro cavalos funcionam como **eras fenomenológicas e estados espirituais**
 Ver [[1.9.3 - Calendário e Duração das Eras]]: Parte 1 (dias 1-14), Parte 2 (semanas 3-16), Parte 3 (meses 5-14), Parte 4 (mês 15 em diante).
 
 ## Segredos do Autor (fora do mundo; não vai para o Compêndio)
-* **Os santuários (Aparecida, Schoenstatt de Atibaia):** no livro 1 ninguém (ou quase ninguém) chega, e as menções vão se tornando comuns. **O segredo é que valeria a pena**: são Faróis reais, de Graça acessível. A salvação continua dependendo da resposta de cada um, e não do lugar ([[1.9.10 - Santuários de Destino]]).
+* **Os santuários (Aparecida, Schoenstatt de Atibaia):** no livro 1 ninguém (ou quase ninguém) chega, e as menções vão se tornando comuns. **O segredo é que valeria a pena**: são lugares de Graça concentrada pelo povo que reza. A salvação continua dependendo da resposta de cada um, e não do lugar ([[1.9.10 - Santuários de Destino]]).
+
+### A verdade sobre os santuários (descoberta tardia; **não entregar de bandeja**)
+* **Cristo está igual em todo sacrário**, e os santuários **não são "mais santos"**. A diferença é a densidade de pessoas em oração e de sacramentos, ou seja, um **Farol coletivo**. A fama é risco: quanto mais conhecido, mais alvo e mais sobrecarga.
+* **Cada pecado procura o que mais ama:** a Avareza, as relíquias e os donativos; a Gula, os depósitos de comida; a Inveja, os virtuosos; a Luxúria, os castos; a Ira, o ruído e a discórdia; a Soberba, a fama e a vaidade da comunidade; a Acídia fica parada; o Anti-Pastor, o clero; o Ídolo Parasita, a devoção tratada como amuleto.
+* **Os personagens descobrem isto sozinhos, bem à frente.** Antes disso, a Resistência só tem crença e boato.
+* **Ponto fraco da força:** [[1.7.4 - O Altar e o Desespero da Consumptio]].
 * **Em aberto:** o que compõe o "livro 1" (as quatro partes ou só parte delas) e quando o livro 2 revela os santuários.
